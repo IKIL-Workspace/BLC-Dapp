@@ -1,16 +1,5 @@
 
-# CRA JavaScript Starter
-
-Starter kit to build with Create React App and thirdweb without additional initial configuration.
-
-
-## Installation
-
-Install the template with [thirdweb create](https://portal.thirdweb.com/cli/create)
-
-```bash
-  npx thirdweb create --template cra-javascript-starter
-```
+# BLCG Blockchain Dapp
 
 ## Run Locally
 
@@ -25,12 +14,12 @@ Start the server
 ```bash
   yarn start
 ```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file. Generate your `clientId` and `secretKey` via thirdweb's [dashboard](https://thirdweb.com/create-api-key).
 
 `CLIENT_ID`
-
 
 
 ## Deployment
